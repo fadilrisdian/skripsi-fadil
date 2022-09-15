@@ -1,0 +1,12 @@
+1. Get The Positive Interactions DONE
+2. Get The Negative Interactions DONE
+3. Resample The Dataset 
+3. Get The Protein FASTA DONE
+4. Get The Compounds SDF DONE
+5. Extract Compound Features DONE
+6. Extract Protein Features DONE
+7. Implement The Model DONE
+8. Hyperparameter Tuning The Data
+9. Evaluate The Best Feature Extraction
+10. Kontribusi (Kombinasi Peptida)
+11. Test with Unknown Test Data and HerbalDB data

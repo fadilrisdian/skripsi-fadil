@@ -1,8 +1,0 @@
-List Protein
--PPARG - P37231
--INS - 	P01308(no interaction BindingDB)
--EP300 - Q09472
--PPARGC1A - Q9UBK2(no interaction - BindingDB)
--LEP - P41159
--LPL - P06858
--B3GNTL1 - Q67FW5(no interaction - BindingDB)
