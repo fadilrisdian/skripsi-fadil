@@ -6,11 +6,16 @@ import time
 # Iterative Stratification untuk cross validation multilabel
 from skmultilearn.model_selection import IterativeStratification
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+from tensorflow import keras
 
 #import models
 from src.sae_dnn_model import sae_model, dnn_model
 from src.iterative_strat_modif import new_init
 from src.visualize import visual
+from src.print import print_metric
+
+# from datetime import datetime
+# from packaging import version
 
 #Modifikasi IterativeStratification agar hasil random data tetap sama    
 IterativeStratification.__init__ = new_init
@@ -76,16 +81,7 @@ def res_sae_dnn(X, hl_node, lr, opt, num_layers, do, fr_node):
   total_waktu = t1-t0
 
   print("waktu proses: ", total_waktu)
-  print("Accuracy array:", acc_results)
-  print("F1 array:", f1_results)
-  print("Precision array:", prec_results)
-  print("Recall array:", rec_results)
-  
-  print('SAE-DNN TUNED PERFORMANCE')
-  print('Accuracy    : {0:.5f}±{1:.3f}'.format(np.mean(acc_results), np.std(acc_results)))
-  print('F1 Score    : {0:.5f}±{1:.3f}'.format(np.mean(f1_results), np.std(f1_results)))
-  print('Precision   : {0:.5f}±{1:.3f}'.format(np.mean(prec_results), np.std(prec_results)))
-  print('Recall      : {0:.5f}±{1:.3f}'.format(np.mean(rec_results), np.std(rec_results)))
+  print_metric(acc_results, f1_results, prec_results, rec_results)
   
   accuracy_res, f1_res, precision_res, recall_res = np.mean(acc_results), np.mean(f1_results), np.mean(prec_results), np.mean(rec_results)
   metric_sae_dnn = [accuracy_res, f1_res, precision_res, recall_res]
@@ -101,6 +97,11 @@ def dnn_saja(X, hl_node, lr, opt, num_layers, do, fr_node):
   prec_results = list()
   rec_results = list()
   n_inputs, n_outputs = X.shape[1], 7
+  
+  # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+  # tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
+  
+  
   # define evaluation procedure
   # cv = IterativeStratification(n_splits=5, random_state = 123)
   i=0
@@ -139,16 +140,7 @@ def dnn_saja(X, hl_node, lr, opt, num_layers, do, fr_node):
   t1 = time.time()
   total_waktu = t1-t0
   print("waktu proses", total_waktu)
-  print("Accuracy array:", acc_results)
-  print("F1 array:", f1_results)
-  print("Precision array:", prec_results)
-  print("Recall array:", rec_results)
-  
-  print('DNN TUNED PERFORMANCE')
-  print('Accuracy    : {0:.5f}±{1:.3f}'.format(np.mean(acc_results), np.std(acc_results)))
-  print('F1 Score    : {0:.5f}±{1:.3f}'.format(np.mean(f1_results), np.std(f1_results)))
-  print('Precision   : {0:.5f}±{1:.3f}'.format(np.mean(prec_results), np.std(prec_results)))
-  print('Recall      : {0:.5f}±{1:.3f}'.format(np.mean(rec_results), np.std(rec_results)))
+  print_metric(acc_results, f1_results, prec_results, rec_results)
   
   accuracy_res, f1_res, precision_res, recall_res = np.mean(acc_results), np.mean(f1_results), np.mean(prec_results), np.mean(rec_results)
   metric_sae_dnn = [accuracy_res, f1_res, precision_res, recall_res]
@@ -158,8 +150,8 @@ def dnn_saja(X, hl_node, lr, opt, num_layers, do, fr_node):
   return [metric_sae_dnn, total_waktu]
 
 #datasets
-df_pubchem = pd.read_csv('dataset/df_pubchem_rapi.csv')
-Y = pd.read_csv('dataset/kelas_data.csv')
+df_pubchem = pd.read_csv('dataset/interim/df_pubchem_rapi.csv')
+Y = pd.read_csv('dataset/interim/kelas_data.csv')
 Y = np.array(Y)
 
 #Parameter
