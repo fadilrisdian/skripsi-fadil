@@ -1,0 +1,297 @@
+Species,Compounds,Count
+Mangifera indica,"['Borneol', 'A-terpinene', 'Blumenol a', 'Geraniol', '1,8-cineole', 'Terpinyl acetate', 'A-humulene', 'Ylangene', 'Hyperoside', 'Methyl chavicol', 'Gallic acid', 'Myrcene', 'Delphinidin', 'Viridiflorene', '3-hexen-1-ol', 'Cryptoxanthin', 'Cycloeucalenol', 'A-cadinol', 'Tartaric acid', 'Myristic acid', 'Mangiferin', 'Cuminaldehyde', 'P-coumaric acid', 'Piperitone', 'Caryophyllene oxide', 'Ascorbic acid', 'Ethyl caprylate', 'Beta-ocimene', '1-hexanol', 'Ethyl caproate', 'Heptanal', 'Methyl isoeugenol', 'Isoquercetin', 'Theviridoside', 'A-selinene', 'Caprylic acid', 'Heptan-2-one', 'Rhamnetin', 'Palmitic acid', 'Palmitoleic acid', 'Protocatechuic acid', '3-carene', 'Quercitrin', '2-heptadecanone', 'Anisaldehyde', 'Linalool', 'P-cymene', 'Terpinolene', 'Limonene', 'A-copaene']",50
+Psidium guajava,"['Protocatechuic acid', 'Beta-ocimene', '1-hexanol', 'Heptan-2-one', 'Spathulenol', 'Arabinose', 'Cinnamyl acetate', 'Ledol', 'P-coumaric acid', 'Ethyl caprylate', 'A-copaene', 'Limonene', 'Borneol', '1,8-cineole', 'Hyperoside', 'Ethyl caproate', 'Gallic acid', 'Isoquercetin', 'P-cymene', 'Geraniol', 'A-terpinene', 'Cycloeucalenol', 'Caryophyllene oxide', 'A-humulene', 'Cryptoxanthin', 'Galacturonic acid', 'A-selinene', 'A-cadinol', 'Epicatechin', 'Casuarinin', 'Isoeugenol', '(e)-beta-farnesene', 'Terpinolene', 'Ascorbic acid', 'Myrcene', 'Farnesol']",36
+Ocimum basilicum,"['P-cymene', 'A-terpinene', 'Isoeugenol', 'A-copaene', 'Cycloeucalenol', 'Terpinolene', 'Caryophyllene oxide', 'Betulinic acid', 'A-selinene', 'N-heptadecane', 'Piperitone', '3-carene', 'A-humulene', 'Anisaldehyde', 'Isoquercetin', 'A-cadinene', 'Myrcene', '(e)-beta-farnesene', 'Cinnamic acid', 'Methyl cinnamate', 'Acetyl eugenol', 'P-coumaric acid', '1,8-cineole', 'Erythrodiol', 'Methyl chavicol', 'A-cadinol', 'Fenchone', 'Oleanolic acid', 'Borneol', 'Beta-ocimene', 'Palmitic acid', 'Nerolidol', 'Spathulenol', 'Geraniol']",34
+Solanum lycopersicum,"['Methylthio', 'Galacturonic acid', 'Cinnamic acid', 'Quercitrin', 'Terpinolene', '3-carene', 'A-humulene', 'Nerolidol', 'Cryptoxanthin', 'A-terpinene', 'N-heptadecane', 'Delphinidin', 'Farnesol', 'P-cymene', 'Naringin', 'Caryophyllene oxide', 'Isoquercetin', 'Heptanal', '3-hexen-1-ol', 'Cycloeucalenol', 'Syringaresinol', 'Myrcene', 'A-copaene', 'Palmitic acid', 'Ethyl caproate', 'Campesterol', 'Protocatechuic acid', 'Glycolic acid', 'Heptan-2-one', 'Ethyl caprylate', '1-hexanol', 'Geraniol', 'P-coumaric acid']",33
+Garcinia mangostana,"['3-isomangostin', '6-deoxy-gamma-mangostin', 'Tovophyllin b', '8-deoxygartanin', '3-isomangostin hydrate', 'Mangostenone b', 'A-mangostin', 'Garcimangosone d', 'Garcimangosone b', 'Garcimangosone a', '1,6-dihydroxy-3-methoxy-2-prenylxanthone', '1,6-dihydroxy-3,7-dimethoxy-2-(3-methyl-2-butenyl)-8-(2-oxo-3-methyl-3-butenyl)-xanthone', 'Quercetin', '9-hydroxycalabaxanthone', '1,5,8-trihydroxy-3-methyl-2-prenylxanthone', 'Mangostinone', 'Mangostin', 'Epicatechin', '1-isomangostin', 'Demethylcalabaxanthone', 'Calabaxanthone', 'Proanthocyanidin a2', '1-isomangostin hydrate', 'Mangostenone a', 'Garcinone c', 'Mangostanol', 'Gartanin', 'Br-xanthone a', 'Maclurin', 'Garcinone e', 'Garcinone d', 'Garcimangosone c']",32
+Foeniculum vulgare,"['P-coumaric acid', 'Terpinolene', '1,8-cineole', 'Methyl chavicol', 'A-copaene', '(e)-beta-farnesene', 'Isoquercetin', 'Palmitic acid', 'Borneol', 'Spathulenol', 'Beta-ocimene', 'Syringin', 'Fenchone', 'A-terpinene', 'Gallic acid', 'Myrcene', 'Anisaldehyde', 'Hyperoside', 'Gentisic acid', 'Cuminaldehyde', 'Caryophyllene oxide', 'Oleanolic acid', 'Cycloeucalenol', 'Heptan-2-one', 'P-cymene', 'A-cadinol', 'A-humulene', '3-carene', 'Cytidine', 'Piperitone']",30
+Zingiber officinale,"['Myrcene', 'Geraniol', 'Palmitoleic acid', 'Beta-ocimene', 'Spathulenol', 'Ledol', 'Isoeugenol', 'Ascorbic acid', 'Delphinidin 3-sambubioside', 'Viridiflorene', 'Myristic acid', 'Borneol', '1,8-cineole', 'A-copaene', 'Acetyl eugenol', '3-carene', 'Apigenin', 'Delphinidin', 'A-humulene', 'A-cadinene', 'A-terpinene', 'A-cadinol', 'P-cymene', 'Farnesol', 'A-selinene', 'Nerolidol', '(e)-beta-farnesene', 'Terpinyl acetate', 'Caryophyllene oxide']",29
+Murraya paniculata,"['Geraniol', 'Ylangene', 'Theviridoside', 'A-cadinene', 'Myricitin', '2-phenylethyl benzoate', 'Galacturonic acid', '(e)-beta-farnesene', 'Borneol', 'A-copaene', 'Myristic acid', '1,8-cineole', 'A-cadinol', 'Caryophyllene oxide', 'Tetradecanol', 'A-terpinene', 'A-humulene', 'Nerolidol', 'Scopoletin', 'A-selinene', '3-hexen-1-ol', 'Palmitic acid', 'Terpinolene', 'Spathulenol', 'Beta-ocimene', 'Delphinidin', 'Blumenol a', 'Myrcene']",28
+Punica granatum,"['Quercitrin', 'Terpinolene', 'P-cymene', 'Betulinic acid', 'Proanthocyanidin a2', 'Tartaric acid', 'Corilagin', 'Protocatechuic acid', 'Secoisolariciresinol', 'Hyperoside', '1-hexanol', '(e)-beta-farnesene', 'Campesterol', 'Epicatechin', 'Cycloeucalenol', 'Estradiol', 'P-coumaric acid', 'Gallic acid', 'Beta-glucogallin', 'Palmitoleic acid', 'Caprylic acid', 'Naringin', 'Myrcene', 'Ellagic acid', 'Myristic acid', 'Isoquercetin', 'Palmitic acid', 'Casuarinin']",28
+Carica papaya,"['Palmitic acid', 'Beta-ocimene', 'Cinnamaldehyde', '3-hexen-1-ol', 'Ethyl caproate', 'Ascorbic acid', 'Geraniol', 'Caprylic acid', 'Palmitoleic acid', 'Ethyl caprylate', '1,8-cineole', 'Heptan-2-one', 'Protocatechuic acid', 'Quercitrin', '1-hexanol', 'Spathulenol', 'P-cymene', 'A-terpinene', 'Myrcene', 'Cryptoxanthin', 'Theviridoside', 'Terpinolene', 'P-coumaric acid', 'Nerolidol', 'A-humulene']",25
+Daucus carota,"['(e)-beta-farnesene', 'Galacturonic acid', 'Quercetin', 'P-coumaric acid', 'A-copaene', 'Caryophyllene oxide', 'Methyl chavicol', 'A-humulene', 'Myrcene', 'A-terpinene', 'Methyl isoeugenol', 'Limonene', 'Ascorbic acid', 'Isoeugenol', 'Cyanidin 3-xyloglucoside', 'Terpinolene', 'Borneol', 'Bornyl acetate', 'Beta-ocimene', 'P-cymene', 'A-selinene', 'Geraniol', 'Cryptoxanthin']",23
+Apium graveolens,"['Caryophyllene oxide', 'A-copaene', 'Campesterol', 'Beta-ocimene', 'Scopoletin', 'Epicatechin', 'A-cadinol', 'Terpinolene', 'P-coumaric acid', 'P-cymene', 'Ylangene', 'Spathulenol', 'Myristic acid', 'Ethyl caprylate', 'A-humulene', 'Psoralen', 'Ethyl caproate', 'A-terpinene', 'A-selinene', 'Myrcene', 'Syringin', 'Fenchone', '3-carene']",23
+Garcinia dulcis,"['Caprylic acid', 'Hyperoside', 'A-mangostin', 'Gartanin', 'P-cymene', 'Ethyl caprylate', 'Friedelin', 'Myristic acid', '8-deoxygartanin', 'Epicatechin', 'Terpinolene', 'Br-xanthone a', 'Heptan-2-one', 'Betulinic acid', 'Palmitic acid', '3-isomangostin hydrate', 'Quercitrin', 'A-terpinene', 'Geraniol', '3-isomangostin', 'Beta-ocimene', '1,5,8-trihydroxy-3-methyl-2-prenylxanthone', 'Garcinone d']",23
+Nicotiana tabacum,"['Isoquercetin', 'Caprylic acid', 'Limonene', 'Palmitic acid', 'P-coumaric acid', 'Linalool', 'Blumenol a', 'Anisaldehyde', 'Geraniol', 'Isoeugenol', 'Palmitoleic acid', 'Myristic acid', 'Cycloeucalenol', 'Cinnamaldehyde', 'Cuminaldehyde', 'Nerolidol', 'P-cymene', '1-hexanol', 'Farnesol', 'Campesterol', 'Scopoletin', 'Quercitrin']",22
+Camellia sinensis,"['Theviridoside', 'A-terpinene', 'Isoquercetin', 'Terpinolene', 'Quercetin', 'A-cadinol', 'Geraniol', 'Myrcene', '3-carene', 'Beta-ocimene', 'Epicatechin', 'Gallic acid', 'A-copaene', 'Cytidine', 'Hyperoside', 'Delphinidin', 'Cycloeucalenol', 'P-cymene', '(e)-beta-farnesene', 'Cinnamic acid', 'Nerolidol', 'Caryophyllene oxide']",22
+Phaseolus vulgaris,"['Tartaric acid', 'Quercetin', 'Citric acid', 'Malic acid', 'Epicatechin', 'Spiraeoside', 'Scopoletin', 'Protocatechuic acid', 'P-coumaric acid', 'Oxalic acid', 'Gentisic acid', 'Maleic acid', 'Cinnamic acid', 'Cryptoxanthin', 'Hyperoside', 'Cycloeucalenol', 'Galacturonic acid', 'Malvidin', 'Palmitoleic acid', 'Isoquercetin', 'Gallic acid']",21
+Thymus vulgaris,"['Geraniol', 'Quercetin', 'P-cymene', 'Betulinic acid', 'A-copaene', 'A-terpinene', 'A-humulene', '3-carene', 'Ursolic acid', 'Bornyl acetate', 'A-cadinene', 'Terpinolene', 'Borneol', 'Caryophyllene oxide', '1,8-cineole', 'Oleanolic acid', 'Beta-ocimene', 'Myrcene', 'P-coumaric acid']",19
+Valeriana officinalis,"['Ylangene', 'Palmitic acid', 'Spathulenol', '1,8-cineole', 'Gallic acid', 'Ledol', 'A-copaene', 'Myrcene', 'Terpinyl acetate', 'A-selinene', 'Borneol', 'Viridiflorene', 'Caryophyllene oxide', 'Terpinolene', 'Bornyl acetate', 'Nerolidol', '3-carene', 'A-terpinene', 'A-humulene']",19
+Cinnamomum camphora,"['Myrcene', '3-carene', '1,8-cineole', 'P-cymene', 'A-terpinene', 'Terpinyl acetate', 'Borneol', 'Fenchone', 'Limonene', 'Spathulenol', 'A-humulene', 'Hinokinin', 'Geraniol', 'A-copaene', 'A-selinene', 'Caryophyllene oxide', 'Terpinolene', 'Nerolidol']",18
+Helianthus annuus,"['1,8-cineole', 'Palmitic acid', 'Myrcene', 'Blumenol a', 'Malic acid', 'Borneol', 'P-cymene', 'Glycolic acid', 'Citric acid', 'Campesterol', 'A-humulene', 'Terpinolene', '3-hexen-1-ol', 'A-terpinene', 'Caryophyllene oxide', 'Scopoletin', 'Spathulenol', 'A-copaene']",18
+Curcuma mangga,"['P-cymene', 'Beta-ocimene', 'A-humulene', '1,8-cineole', '(e)-beta-farnesene', 'Cycloeucalenol', 'Geraniol', 'A-cadinol', 'Myrcene', 'A-terpinene', 'Isoquercetin', 'Terpinolene', 'A-copaene', 'Caryophyllene oxide', 'P-coumaric acid', 'Palmitic acid', 'Borneol', 'Scopoletin']",18
+Momordica charantia,"['Gentisic acid', 'Cucurbitacin f', 'Naringin', 'Cinnamic acid', 'Cycloeucalenol', 'Quercetin', 'Cucurbitacin e', 'Cryptoxanthin', 'Isoquercetin', 'Epicatechin', 'Momordenol', 'P-coumaric acid', 'Gallic acid', 'Momordol', 'Cucurbitane', 'Protocatechuic acid', 'Momordicilin']",17
+Piper nigrum,"['A-copaene', 'Terpinyl acetate', 'A-cadinol', 'Myrcene', 'Spathulenol', 'Beta-ocimene', 'Caryophyllene oxide', 'Terpinolene', '1,8-cineole', 'Ledol', 'Viridiflorene', 'A-terpinene', 'P-cymene', 'Ylangene', '(e)-beta-farnesene', 'A-selinene', 'A-humulene']",17
+Solanum tuberosum,"['Cryptoxanthin', '(e)-beta-farnesene', 'Palmitoleic acid', 'Naringin', 'Palmitic acid', 'Campesterol', 'N-heptadecane', 'Syringin', 'P-coumaric acid', 'A-cadinol', 'Syringaresinol', 'Myristic acid', 'Myrcene', 'Scopoletin', 'A-copaene', 'A-humulene', 'Delphinidin']",17
+Capsicum annuum,"['Palmitic acid', 'Spiraeoside', 'Quercetin', 'Isoquercetin', 'A-copaene', 'P-coumaric acid', 'Protocatechuic acid', 'Ylangene', 'Quercetin-3-o-rhamnoside', 'Naringin', 'Cryptoxanthin', 'Palmitoleic acid', 'Ascorbic acid', 'Gallic acid', 'Cycloeucalenol', '3-hexen-1-ol']",16
+Citrus aurantium,"['(e)-beta-farnesene', 'Naringin', 'Terpinolene', 'Beta-ocimene', 'Terpinyl acetate', 'Geraniol', 'Myrcene', 'Spathulenol', 'A-terpinene', '3-carene', 'Nerolidol', 'A-humulene', 'P-cymene', 'A-copaene']",14
+Glycine max,"['P-coumaric acid', 'Isoquercetin', 'Malic acid', 'Ascorbic acid', 'Campesterol', 'Cycloeucalenol', 'Cryptoxanthin', 'Cinnamic acid', 'Protocatechuic acid', 'Scopoletin', 'Galacturonic acid', 'Aloin', 'Citric acid', 'Gentisic acid']",14
+Curcuma amada,"['Myrcene', 'Borneol', 'A-terpinene', 'Caryophyllene oxide', '1,8-cineole', 'A-selinene', 'Terpinyl acetate', 'Ledol', '(e)-beta-farnesene', 'Beta-ocimene', 'Spathulenol', '3-carene', 'P-cymene']",13
+Curcuma longa,"['Spathulenol', 'P-coumaric acid', '3-carene', 'A-humulene', 'Borneol', 'Myrcene', 'Cinnamaldehyde', 'Palmitic acid', 'P-cymene', '1,8-cineole', '(e)-beta-farnesene', 'Caryophyllene oxide', 'Terpinolene']",13
+Citrus aurantifolia,"['Terpinolene', '1,8-cineole', 'Palmitic acid', 'Geraniol', 'Borneol', 'Myrcene', 'A-terpinene', '(e)-beta-farnesene', 'Caryophyllene oxide', 'A-humulene', 'Nerolidol', 'A-copaene', 'P-cymene']",13
+Ginkgo biloba,"['Gallic acid', 'Isoquercetin', 'Caprylic acid', 'Scopoletin', 'Quercetin', 'Cycloeucalenol', '1,8-cineole', 'Epicatechin', 'Palmitic acid', 'Protocatechuic acid', 'Hyperoside', 'Cinnamic acid', 'P-coumaric acid']",13
+Azadirachta indica,"['Ledol', 'Campesterol', 'Epicatechin', 'Farnesol', 'A-humulene', 'P-cymene', 'A-terpinene', 'Viridiflorene', 'Azadirachtin', 'A-copaene', 'Ascorbic acid', 'Gallic acid']",12
+Melaleuca leucadendra L.,"['A-selinene', 'A-cadinol', 'Terpinyl acetate', 'Ledol', 'Borneol', 'A-terpinene', 'Viridiflorene', 'Beta-ocimene', 'Myrcene', 'A-copaene', 'Caryophyllene oxide', 'P-cymene']",12
+Ganoderma lucidum,"['1,8-cineole', 'Piperitone', 'Quercitrin', 'Methyl chavicol', 'Caprylic acid', 'Fenchone', '(e)-beta-farnesene', 'Borneol', 'Ylangene', 'Heptan-2-one', 'Myristic acid', 'Ricinoleic acid']",12
+Allium cepa,"['Quercetin', 'N-heptadecane', 'Heptan-2-one', 'Cycloeucalenol', 'Oleanolic acid', 'Gallic acid', 'Malvidin', 'Isoquercetin', 'Protocatechuic acid', 'Arabinose', 'Spiraeoside']",11
+Clausena excavata,"['Theviridoside', 'Cuminaldehyde', 'A-humulene', 'Myrcene', 'Spathulenol', 'Nerolidol', 'Beta-ocimene', 'Terpinolene', 'P-cymene', 'Caryophyllene oxide', 'A-cadinol']",11
+Annona muricata,"['1-hexanol', 'Ethyl caproate', 'Quercetin', 'Epicatechin', 'Blumenol a', 'Gallic acid', 'Isoquercetin', 'Emodin', 'P-coumaric acid', 'Cycloeucalenol', 'Quercitrin']",11
+Cymbopogon citratus,"['Geraniol', 'P-coumaric acid', 'Cycloeucalenol', 'Linalool', 'Myrcene', 'Tetrahydroxyflavone', 'Beta-ocimene', 'Caryophyllene oxide', '1,8-cineole', 'Isoquercetin', 'P-cymene']",11
+Morus alba,"['Protocatechuic acid', 'Quercetin-3-o-rhamnoside', 'P-coumaric acid', 'Betulinic acid', 'Isoquercetin', 'Maclurin', 'Quercetin', 'Cycloeucalenol', 'Scopoletin', '1,8-cineole', 'Petunidin']",11
+Averrhoa carambola,"['Myrcene', 'Campesterol', 'Heptan-2-one', 'Ethyl caproate', 'Quercitrin', 'Myristic acid', 'N-heptadecane', 'Tartaric acid', 'Palmitic acid', 'Rhamnetin']",10
+Allium sativum,"['Protocatechuic acid', 'Hyperoside', 'Epicatechin', 'Terpinolene', 'Nerolidol', 'Gentisic acid', 'P-coumaric acid', '1,8-cineole', 'Geraniol', 'Gallic acid']",10
+Phyllanthus niruri,"['Cycloeucalenol', 'Gallic acid', 'Hinokinin', 'Beta-glucogallin', 'Lintetralin', 'Niranthin', 'Nirtetralin', 'Sabinene', 'Nirurin', 'Isoquercetin']",10
+Santalum album,"['Farnesol', 'Geraniol', 'Borneol', 'Myristic acid', 'Quercitrin', '2-heptadecanone', 'Caprylic acid', 'Isoeugenol', 'Heptanal', 'Palmitic acid']",10
+Cyperus rotundus L.,"['P-cymene', 'A-humulene', 'Terpinolene', 'P-coumaric acid', 'Cuminaldehyde', 'Spathulenol', 'Myrcene', 'Protocatechuic acid', '1,8-cineole', 'Borneol']",10
+Acorus calamus,"['Caryophyllene oxide', 'A-cadinol', 'Borneol', 'Beta-ocimene', 'Methyl isoeugenol', 'A-humulene', 'A-selinene', 'Geraniol', 'Spathulenol', 'P-coumaric acid']",10
+Raphanus sativus,"['Gentisic acid', 'Ascorbic acid', 'Sinigrin', 'Epicatechin', 'Gallic acid', 'P-coumaric acid', 'Glucobrassicin', 'Protocatechuic acid', 'Cryptoxanthin']",9
+Litsea cubeba,"['Geraniol', 'P-cymene', '1-hexanol', 'Spathulenol', '(e)-beta-farnesene', 'Laurotetanine', 'Beta-ocimene', 'Myrcene', 'A-humulene']",9
+Annona squamosa,"['Ascorbic acid', 'Beta-ocimene', 'Terpinolene', 'Myristic acid', 'Spathulenol', 'Myrcene', 'Palmitic acid', 'A-cadinol', 'A-humulene']",9
+Cocos nucifera,"['Epicatechin', 'Tetradecanol', 'P-coumaric acid', 'Quercitrin', 'Protocatechuic acid', 'Campesterol', 'Caprylic acid', 'Gentisic acid']",8
+Moringa oleifera,"['Epicatechin', 'Rhamnetin', 'P-coumaric acid', 'Gentisic acid', 'Isoquercetin', 'Cycloeucalenol', 'P-cymene', 'Gallic acid']",8
+Cananga odorata,"['Isoeugenol', 'Hexadecanol', 'Ylangene', 'A-humulene', 'Theviridoside', '1,8-cineole', 'Myrcene', 'Terpinolene']",8
+Baeckea frutescens L.,"['Caryophyllene oxide', 'A-terpinene', 'Geraniol', 'Terpinolene', 'Theviridoside', 'Myrcene', '1,8-cineole', 'Borneol']",8
+Oryza sativa,"['P-coumaric acid', 'Syringaresinol', 'Citric acid', 'Campesterol', 'Isoquercetin', 'Cycloeucalenol', 'Oxalic acid', 'Glycolic acid']",8
+Morinda citrifolia,"['Alizarin', 'Soranjidiol', 'Scandoside', 'Aucubin', 'Rubiadin', 'Scopoletin', 'Morindone']",7
+Mentha arvensis L.,"['1,8-cineole', 'A-cadinol', 'Caryophyllene oxide', 'P-cymene', 'A-terpinene', '(e)-beta-farnesene', 'Terpinolene']",7
+Citrus hystrix,"['Terpinolene', 'Myrcene', 'A-copaene', '(e)-beta-farnesene', 'P-cymene', '1-hexanol', 'A-terpinene']",7
+Coffea arabica,"['Quercitrin', 'Ethyl caprylate', 'Heptan-2-one', '1-hexanol', 'Myrcene', 'Ethyl caproate', 'Cryptoxanthin']",7
+Curcuma zedoaria,"['1,8-cineole', 'Spathulenol', 'Farnesol', '(e)-beta-farnesene', 'A-humulene', 'A-cadinol', 'A-selinene']",7
+Phyllanthus emblica,"['Isoquercetin', 'Beta-glucogallin', 'Corilagin', 'Epicatechin', 'Protocatechuic acid', 'Gallic acid', 'Cycloeucalenol']",7
+Aegle marmelos,"['Betulinic acid', 'Psoralen', 'Palmitic acid', 'Cinnamic acid', 'P-cymene', '1,8-cineole', 'Scopoletin']",7
+Curcuma aeruginosa,"['Myrcene', '1,8-cineole', 'A-humulene', 'A-cadinol', 'Caryophyllene oxide', 'Borneol']",6
+Brassica oleracea,"['Methylthio', 'Campesterol', 'Sinigrin', 'Ascorbic acid', 'Glucobrassicin', 'Cryptoxanthin']",6
+Strobilanthes crispus,"['Cinnamic acid', 'N-heptadecane', 'A-cadinol', 'Ledol', 'Gallic acid', 'Epicatechin']",6
+Curcuma xanthorrhiza,"['Terpinolene', 'Myrcene', '1,8-cineole', 'P-cymene', 'Caryophyllene oxide', 'Borneol']",6
+Catharanthus roseus,"['Gallic acid', 'Geraniol', 'Betulinic acid', 'Oleanolic acid', 'Gentisic acid', 'Cinnamic acid']",6
+Plantago major,"['Catalpol', 'Gentisic acid', 'Myristic acid', 'Oleanolic acid', 'P-coumaric acid', 'Aucubin']",6
+Crocus sativus,"['P-coumaric acid', 'Naringin', 'Isoquercetin', 'Cycloeucalenol', 'Protocatechuic acid', 'Gallic acid']",6
+Syzygium aromaticum,"['Acetyl eugenol', 'Oleanolic acid', 'Campesterol', 'Heptan-2-one', 'Rhamnetin', 'A-humulene']",6
+Nigella sativa L,"['Fenchone', 'Myrcene', 'P-cymene', 'Anisaldehyde', 'Methyl chavicol']",5
+Ocimum gratissimum,"['A-humulene', 'Beta-ocimene', 'A-copaene', 'Borneol', 'A-terpinene']",5
+Orthosiphon stamineus,"['Betulinic acid', 'Protocatechuic acid', 'Oleanolic acid', 'Blumenol a', 'Ursolic acid']",5
+Cucumis sativus,"['Isoquercetin', 'P-coumaric acid', 'Cycloeucalenol', 'Tetrahydroxyflavone', 'Cucurbitacin c']",5
+Tinospora crispa,"['Secoisolariciresinol', 'Columbin', 'Magnoflorine', 'Syringin', 'Syringaresinol']",5
+Abutilon indicum,"['Palmitic acid', 'Scopoletin', 'Gallic acid', 'Geraniol', 'Caryophyllene oxide']",5
+Ricinus communis,"['Cycloeucalenol', 'Ricinoleic acid', 'Oxalic acid', 'Isoquercetin', 'Corilagin']",5
+Durio zibethinus,"['Ethyl caproate', 'Ethyl caprylate', 'Ethyl cinnamate', 'Quercitrin', 'Delphinidin']",5
+Carthamus tinctorius,"['Myristic acid', 'Kaempferol', 'Cycloeucalenol', 'Syringin', 'Isoquercetin']",5
+Phyllanthus urinaria L.,"['Sabinene', 'Lintetralin', 'Nirtetralin', 'Niranthin']",4
+Garcinia cowa,"['A-mangostin', 'Mangostinone', '9-hydroxycalabaxanthone', 'Garcinone a']",4
+Vitex trifolia,"['1,8-cineole', 'Myristic acid', 'Palmitoleic acid', 'Friedelin']",4
+Eucalyptus globulus,"['P-cymene', '1,8-cineole', 'Cuminaldehyde', 'Hyperoside']",4
+Musa acuminata,"['Hyperoside', 'Isoquercetin', 'Epicatechin', 'Cycloeucalenol']",4
+Coleus aromaticus,"['Quercetin', 'Oleanolic acid', 'P-cymene', 'Myrcene']",4
+Myristica fragrans,"['Methyl isoeugenol', 'Borneol', 'Isoeugenol', 'Myristic acid']",4
+Cuminum cyminum L.,"['A-terpinene', '1,8-cineole', 'Cuminaldehyde', 'P-cymene']",4
+Trigonella foenum-graecum,"['Tetrahydroxyflavone', 'Gallic acid', 'Vicenin', 'Scopoletin']",4
+Caesalpinia pulcherrima,"['A-cadinol', 'Spathulenol', 'Caryophyllene oxide', 'Gallic acid']",4
+Andrographis paniculata,"['Andrographolide', '14-deoxy-11-oxoandrographolide', 'Apigenin', 'Andrograpanin']",4
+Syzygium cumini,"['Betulinic acid', 'Friedelin', 'Oleanolic acid', 'Gallic acid']",4
+Drymaria cordata,"['Quercitrin', 'Palmitic acid', 'Myristic acid', 'Caprylic acid']",4
+Melaleuca leucadendron,"['Betulinic acid', '1,8-cineole', 'Ledol', 'Viridiflorene']",4
+Mentha piperita L.,"['P-cymene', 'Terpinolene', 'A-terpinene', '1,8-cineole']",4
+Ocimum sanctum,"['Geraniol', 'Viridiflorene', 'P-coumaric acid', 'Nerolidol']",4
+Morinda citrifolia L.,"['Delphinin', 'Ursolic acid', 'Damnacanthal', 'Oleanolic acid']",4
+Calophyllum inophyllum,"['Myristic acid', 'Friedelin', 'Palmitoleic acid', 'Palmitic acid']",4
+Melia azadirach,"['Terpinolene', 'P-cymene', 'A-cadinol']",3
+Jasminum sambac,"['A-cadinol', 'Nerolidol', '(e)-beta-farnesene']",3
+Abelmoschus manihot,"['Hyperoside', 'Isoquercetin', 'Cycloeucalenol']",3
+Asparagus racemosus,"['Diosgenin', 'Borneol', 'Hyperoside']",3
+Cassia fistula,"['Epicatechin', 'Cuminaldehyde', 'Sterculic acid']",3
+Tamarindus indica,"['Tetrahydroxyflavone', 'Epicatechin', 'Tartaric acid']",3
+Aloe vera,"['Geranin b', 'Psoralen', 'P-coumaric acid']",3
+Nelumbo nucifera,"['Cycloeucalenol', 'Isoquercetin', 'Hyperoside']",3
+Rheum palmatum,"['Alizarin', 'Emodin', 'Gallic acid']",3
+Zea mays,"['Cryptoxanthin', 'Quercetin', 'P-coumaric acid']",3
+Phyllanthus urinaria,"['Oleanolic acid', 'Gallic acid', 'Corilagin']",3
+Adansonia digitata,"['Betulinic acid', 'Scopoletin', 'Friedelin']",3
+Pogostemon cablin,"['Rhamnetin', 'Spathulenol', 'Cinnamaldehyde']",3
+Cassia javanica,"['Emodin', 'Epicatechin', 'N-heptadecane']",3
+Acacia catechu,"['Quercetin', 'Epicatechin', 'Rhamnetin']",3
+Pedilanthus tithymaloides,"['Isoquercetin', 'Cycloeucalenol', 'Scopoletin']",3
+Zingiber zerumbet Smith,"['Caryophyllene oxide', 'A-humulene', '3-carene']",3
+Cinnamomum cassia,"['Cinnamaldehyde', 'Protocatechuic acid', 'Cinnamyl acetate']",3
+Nerium oleander,"['Ursolic acid', 'Betulinic acid', 'Oleanolic acid']",3
+Zingiber cassumunar Roxb.,"['Borneol', 'Caryophyllene oxide']",2
+Lactuca indica,"['Isoquercetin', 'Cycloeucalenol']",2
+Glycyrrhiza glabra,"['Betulinic acid', 'Naringin']",2
+Glycyrrhiza glabra L.,"['Cycloeucalenol', 'Isoquercetin']",2
+Gossypium herbaceum,"['Cycloeucalenol', 'Isoquercetin']",2
+Garcinia xanthochymus,"['Maclurin', 'A-mangostin']",2
+Uncaria gambir,"['Epicatechin', 'Gallic acid']",2
+Hibiscus mutabilis,"['Cycloeucalenol', 'Isoquercetin']",2
+Hibiscus sabdariffa,"['Hibiscetin', 'Delphinidin 3-sambubioside']",2
+Terminalia catappa,"['Epicatechin', 'Protocatechuic acid']",2
+Morinda tinctoria,"['Morindone', 'Damnacanthal']",2
+Lagerstroemia indica,"['Petunidin', 'Ellagic acid']",2
+Lantana camara,"['P-cymene', 'Palmitic acid']",2
+Lepidium sativum,"['Sinigrin', 'Glucobrassicin']",2
+Solanum tuberosum L.,"['Isoquercetin', 'Cycloeucalenol']",2
+Sida rhombifolia,"['Scopoletin', 'Campesterol']",2
+Punica granatum L.,"['Epicatechin', 'Quercetin']",2
+Pongamia pinnata,"['Betulinic acid', 'A-cadinol']",2
+Polyalthia cerasoides,"['A-cadinol', 'A-humulene']",2
+Mentha piperita,"['Caryophyllene oxide', 'Limonene']",2
+Phyllanthus reticulatus,"['Betulinic acid', 'Friedelin']",2
+Phyllanthus acidus,"['Isoquercetin', 'Cycloeucalenol']",2
+Persea gratissima,"['Methyl chavicol', 'Proanthocyanidin a2']",2
+Papaver somniferum,"['Berberine', 'Magnoflorine']",2
+Oxalis corniculata,"['Ascorbic acid', 'Diosgenin']",2
+Paederia scandens,"['Oleanolic acid', 'Delphinin']",2
+Zinnia elegans,"['Isoquercetin', 'Cycloeucalenol']",2
+Brassica oleracea var. capitata,"['Glucobrassicin', 'Sinigrin']",2
+Capparis spinosa,"['Sinigrin', 'Glucobrassicin']",2
+Cyperus rotundus,"['A-selinene', 'A-copaene']",2
+Cassia siamea Lamk.,"['Oleanolic acid', 'Friedelin']",2
+Coriandrum sativum,"['Tetradecanol', 'A-terpinene']",2
+Diospyros melanoxylon,"['Betulinic acid', 'Oleanolic acid']",2
+Blumea balsamifera,"['Protocatechuic acid', 'Rhamnetin']",2
+Diospyros montana,"['Betulinic acid', 'Oleanolic acid']",2
+Clitoria ternatea,"['Cycloeucalenol', 'Isoquercetin']",2
+Dryobalanops aromatica,"['Borneol', 'Oleanolic acid']",2
+Citrus medica,"['Geraniol', 'Myrcene']",2
+Citrus,"['Terpinolene', 'A-terpinene']",2
+Artemisia vulgaris,"['Spathulenol', 'Caryophyllene oxide']",2
+Etlingera elatior,"['Isoquercetin', 'Cycloeucalenol']",2
+Cinnamomum zeylanicum,"['Cinnamaldehyde', 'Theviridoside']",2
+Curcuma domestica,"['Malic acid', 'P-coumaric acid']",2
+Anacardium occidentale,"['Myrcene', 'Beta-ocimene']",2
+Achyranthes aspera,"['Oleanolic acid', 'Betulinic acid']",2
+Casuarina equisetifolia,"['Isoquercetin', 'Cycloeucalenol']",2
+Abrus precatorius,"['Gallic acid', 'Delphinidin 3-sambubioside']",2
+Cassia angustifolia,"['Emodin', 'Epicatechin']",2
+Garcinia indica,"['Cyanidin 3-xyloglucoside', 'A-mangostin']",2
+Acanthus ilicifolius,"['Cycloeucalenol', 'Isoquercetin']",2
+Ficus microcarpa,"['Ursolic acid', 'Safrole']",2
+Allium ascalonicum,"['Isoquercetin', 'Cycloeucalenol']",2
+Rhododendron arboreum,['Betulinic acid'],1
+Berberis aristata,['Berberine'],1
+Rollinia mucosa,['Berberine'],1
+Cassia alata,['Palmitic acid'],1
+Rosa chinensis,['Gallic acid'],1
+Rosa damascena,['Geraniol'],1
+Ruellia tuberosa,['Campesterol'],1
+Rumex nepalensis,['Emodin'],1
+Cassia alata L.,['Emodin'],1
+Pimpinella anisum,['Anisaldehyde'],1
+Blumea lacera,['Fenchone'],1
+Caesalpinia sappan,['Gallic acid'],1
+Bombax malabaricum,['Mangiferin'],1
+Borassus flabellifer,['Diosgenin'],1
+Brassica,['Glucobrassicin'],1
+Prosopis spicigera,['Campesterol'],1
+Brassica oleracea var. botrytis,['Glucobrassicin'],1
+Saccharum officinarum,['Glycolic acid'],1
+Piper betle,['Methyl chavicol'],1
+Bryophyllum pinnatum,['P-coumaric acid'],1
+Plumbago zeylanica,['Psoralen'],1
+Piper cubeba,['Hinokinin'],1
+Platycodon grandiflorum,['Quercetin'],1
+Garcinia malaccensis,['A-mangostin'],1
+Senna alata,['Emodin'],1
+Belamcanda chinensis,['Mangiferin'],1
+Trichosanthes tricuspidata,['Cucurbitacin k'],1
+Areca catechu,['Myristic acid'],1
+Arachis hypogaea,['Oxalic acid'],1
+Tectona grandis,['Rubiadin'],1
+Terminalia arjuna,['Epicatechin'],1
+Anomianthus dulcis,['Laurotetanine'],1
+Ananas comosus,['P-coumaric acid'],1
+Alpinia officinarum,"['1,8-cineole']",1
+Santalum album L.,['Secoisolariciresinol'],1
+Turnera ulmifolia,['Gallic acid'],1
+Urena lobata,['Mangiferin'],1
+Aleurites moluccana,['Palmitic acid'],1
+Vigna radiata,['Scopoletin'],1
+Aglaia forbesii,['Spathulenol'],1
+Aglaia edulis,['Scopoletin'],1
+Syzygium aromatica,['Oleanolic acid'],1
+Strychnos potatorum,['Oleanolic acid'],1
+Atropa belladonna,['Scopoletin'],1
+Sterculia foetida,['Sterculic acid'],1
+Aucuba japonica,['Aucubin'],1
+Averrhoa carambola L.,['Epicatechin'],1
+Solanum melongena,['Diosgenin'],1
+Baeckea frutescens,['P-cymene'],1
+Solanum indicum,['Scopoletin'],1
+Smilax zeylanica L.,['Diosgenin'],1
+Smilax china,['Diosgenin'],1
+Basella rubra L.,['Momordin i'],1
+Sesamum indicum,['Gentisic acid'],1
+Senna tora,['Emodin'],1
+Senna sophera,['Emodin'],1
+Selaginella doederleinii,['Benzyl benzoate'],1
+Scutellaria indica,['Scutellarein'],1
+Cassia occidentalis,['Emodin'],1
+Centella asiatica,['A-humulene'],1
+Cassia tora L.,['Emodin'],1
+Elettaria cardamomum,['A-terpinene'],1
+Jasminum officinale,['Aucubin'],1
+Jatropha multifida,['Linalool'],1
+Juniperus,['Terpinolene'],1
+Kalanchoe daigremontiana,['Friedelin'],1
+Erythrina variegata L.,['Erythrodiol'],1
+Equisetum debile,['Blumenol a'],1
+Lantana camara L.,['Geraniol'],1
+Eucalyptus,['A-terpinene'],1
+Lawsonia inermis,['P-coumaric acid'],1
+Duranta repens,['Scutellarein'],1
+Ludwigia octovalvis,['Oleanolic acid'],1
+Malus sylvestris,['Proanthocyanidin a2'],1
+Melaleuca leucadendra,"['1,8-cineole']",1
+Diospyros embryopteris,['Betulinic acid'],1
+Impatiens balsamina,['Malvidin'],1
+Eugenia caryophyllata,['Caryophyllene oxide'],1
+Cassytha filiformis,['Hyperoside'],1
+Glycine ma,['Campesterol'],1
+Garcinia morella,['A-mangostin'],1
+Garcinia nigrolineata,['8-deoxygartanin'],1
+Garcinia cornea,['Epicatechin'],1
+Gardenia jasminoides,['Scandoside'],1
+Garcinia celebica,['Epicatechin'],1
+Abelmoschus moschatus,['Farnesol'],1
+Ficus racemosa,['Safrole'],1
+Hibiscus abelmoschus,['Farnesol'],1
+Ficus carica,['Psoralen'],1
+Feronia elephantum,['Methyl chavicol'],1
+Gynandropsis gynandra,['Glucobrassicin'],1
+Hedychium coronarium,"['1,8-cineole']",1
+Euphorbia tirucalli,['Ellagic acid'],1
+Heliotropium indicum,['Campesterol'],1
+Melastoma malabathricum,['Malvidin'],1
+Diospyros diepenhorstii,['Betulinic acid'],1
+Mentha,['Terpinolene'],1
+Cicer arietinum,['Oxalic acid'],1
+Ocimum basilicum L.,['Apigenin'],1
+Cissampelos pareira,['Magnoflorine'],1
+Oldenlandia corymbosa,['Delphinin'],1
+Ophiopogon japonicus,['Oleanolic acid'],1
+Oroxylum indicum,['Scutellarein'],1
+Cinnamomum verum,['Acetyl eugenol'],1
+Paederia foetida,['Campesterol'],1
+Diospyros chloroxylon,['Betulinic acid'],1
+Cibotium barometz,['Protocatechuic acid'],1
+Pandanus conoideus Lam,['Myristic acid'],1
+Passiflora foetida,['Apigenin'],1
+Ceiba pentandra,['Malvalic acid'],1
+Peltophorum pterocarpum,['Safrole'],1
+Phaleria macrocarpa,['Mangiferin'],1
+Ocimum,['Methyl cinnamate'],1
+Clerodendron serratum,['Scutellarein'],1
+Nigella sativa,['Syringaresinol'],1
+Clinacanthus nutans,['Tetrahydroxyflavone'],1
+Coffea canephora,['Cryptoxanthin'],1
+Cola acuminata,['Proanthocyanidin a2'],1
+Colocasia esculenta,['Tetrahydroxyflavone'],1
+Morus australis,['Betulinic acid'],1
+Costus speciosus,['Diosgenin'],1
+Moringa pterygosperma,['Rhamnetin'],1
+Croton tiglium,['Myristic acid'],1
+Cucurbitaceae,['Cucurbitacin d'],1
+Cuminum cyminum,['P-cymene'],1
+Momordica cochinchinensis,['Oleanolic acid'],1
+Millingtonia hortensis,['Scutellarein'],1
+Daucus carota L.,['Diosgenin'],1
+Dillenia serrata,['Betulinic acid'],1
+Glochidion rubrum,['Safrole'],1
