@@ -1,0 +1,59 @@
+﻿cid,chemicalid,chemicalname,genesymbol,geneid,taxname,taxid,interaction,pmids
+   299,D007631,Chlordecone,B3GNTL1,146712,Danio rerio,7955,Chlordecone results in decreased expression of B3GNTL1 mRNA,29458080
+1322,D019813,"1,2-Dimethylhydrazine",B3GNTL1,146712,Mus musculus,10090,"1,2-Dimethylhydrazine results in increased expression of B3GNTL1 mRNA",22206623
+1615,D018817,"N-Methyl-3,4-methylenedioxyamphetamine",B3GNTL1,146712,Mus musculus,10090,"N-Methyl-3,4-methylenedioxyamphetamine results in decreased expression of B3GNTL1 mRNA|N-Methyl-3,4-methylenedioxyamphetamine results in increased methylation of B3GNTL1 promoter",26251327
+1983,D000082,Acetaminophen,B3GNTL1,146712,Rattus norvegicus,10116,Acetaminophen results in increased expression of B3GNTL1 mRNA,33387578
+2336,D001564,Benzo(a)pyrene,B3GNTL1,146712,Boreogadus saida,44932,[Benzo(a)pyrene co-treated with Ethinyl Estradiol] results in increased expression of B3GNTL1 mRNA,34015484
+2336,D001564,Benzo(a)pyrene,B3GNTL1,146712,Homo sapiens,9606,Benzo(a)pyrene results in decreased expression of B3GNTL1 mRNA,20106945|21632981|26238291
+2336,D001564,Benzo(a)pyrene,B3GNTL1,146712,Homo sapiens,9606,Benzo(a)pyrene results in increased methylation of B3GNTL1 promoter|Benzo(a)pyrene results in decreased methylation of B3GNTL1 intron,27901495
+3121,D014635,Valproic Acid,B3GNTL1,146712,Homo sapiens,9606,Valproic Acid results in increased methylation of B3GNTL1 gene,29154799
+3559,D006220,Haloperidol,B3GNTL1,146712,Danio rerio,7955,Haloperidol results in decreased expression of B3GNTL1 mRNA,29458080
+4098,D008701,Methapyrilene,B3GNTL1,146712,Homo sapiens,9606,Methapyrilene results in decreased methylation of B3GNTL1 intron,30157460
+5394,D000077204,Temozolomide,B3GNTL1,146712,Homo sapiens,9606,Temozolomide results in decreased expression of B3GNTL1 mRNA,31758290
+5743,D003907,Dexamethasone,B3GNTL1,146712,Danio rerio,7955,Dexamethasone inhibits the reaction [RX3 gene mutant form affects the expression of B3GNTL1 mRNA],27941970
+5756,D004964,Estriol,B3GNTL1,146712,Mus musculus,10090,Estriol results in decreased expression of B3GNTL1 mRNA,25575267
+5757,D004958,Estradiol,B3GNTL1,146712,Mus musculus,10090,Estradiol results in decreased expression of B3GNTL1 mRNA,25575267
+5921,D004052,Diethylnitrosamine,B3GNTL1,146712,Gallus gallus,9031,Diethylnitrosamine results in increased expression of B3GNTL1 mRNA,30102407
+5991,D004997,Ethinyl Estradiol,B3GNTL1,146712,Boreogadus saida,44932,Ethinyl Estradiol results in increased expression of B3GNTL1 mRNA|[Benzo(a)pyrene co-treated with Ethinyl Estradiol] results in increased expression of B3GNTL1 mRNA,34015484
+5991,D004997,Ethinyl Estradiol,B3GNTL1,146712,Rattus norvegicus,10116,Ethinyl Estradiol affects the expression of B3GNTL1 mRNA,20170705
+6575,D014241,Trichloroethylene,B3GNTL1,146712,Rattus norvegicus,10116,Trichloroethylene results in increased expression of B3GNTL1 mRNA,33387578
+6579,D020106,Acrylamide,B3GNTL1,146712,Homo sapiens,9606,Acrylamide results in decreased expression of B3GNTL1 mRNA,32763439
+6579,D020106,Acrylamide,B3GNTL1,146712,Rattus norvegicus,10116,Acrylamide results in increased expression of B3GNTL1 mRNA,28959563
+6623,C006780,bisphenol A,B3GNTL1,146712,Danio rerio,7955,bisphenol A results in increased expression of B3GNTL1 mRNA,29458080
+6623,C006780,bisphenol A,B3GNTL1,146712,Homo sapiens,9606,bisphenol A affects the expression of B3GNTL1 mRNA,20170705
+6623,C006780,bisphenol A,B3GNTL1,146712,Homo sapiens,9606,[bisphenol A co-treated with Fulvestrant] results in increased methylation of B3GNTL1 gene,31601247
+6623,C006780,bisphenol A,B3GNTL1,146712,Homo sapiens,9606,bisphenol A results in decreased expression of B3GNTL1 protein,33376534
+6623,C006780,bisphenol A,B3GNTL1,146712,Homo sapiens,9606,bisphenol A results in increased expression of B3GNTL1 mRNA,31715268
+6623,C006780,bisphenol A,B3GNTL1,146712,Mus musculus,10090,bisphenol A results in decreased expression of B3GNTL1 mRNA,25575267
+6623,C006780,bisphenol A,B3GNTL1,146712,Rattus norvegicus,10116,bisphenol A results in increased expression of B3GNTL1 mRNA,34947998
+6626,C543008,bis(4-hydroxyphenyl)sulfone,B3GNTL1,146712,Homo sapiens,9606,bis(4-hydroxyphenyl)sulfone results in decreased methylation of B3GNTL1 gene|[bis(4-hydroxyphenyl)sulfone co-treated with Fulvestrant] results in decreased methylation of B3GNTL1 gene,31601247
+6782,C025605,diisobutyl phthalate,B3GNTL1,146712,Danio rerio,7955,diisobutyl phthalate results in increased expression of B3GNTL1 mRNA,29458080
+9128,C026487,benzo(e)pyrene,B3GNTL1,146712,Homo sapiens,9606,benzo(e)pyrene results in decreased methylation of B3GNTL1 intron,30157460
+14223,C014129,N-nitrosodiethanolamine,B3GNTL1,146712,Gallus gallus,9031,N-nitrosodiethanolamine results in increased expression of B3GNTL1 mRNA,30102407
+15032,D011285,Pregnenolone Carbonitrile,B3GNTL1,146712,Rattus norvegicus,10116,Pregnenolone Carbonitrile results in increased expression of B3GNTL1 mRNA,19162173
+15625,D013749,Tetrachlorodibenzodioxin,B3GNTL1,146712,Homo sapiens,9606,Tetrachlorodibenzodioxin affects the expression of B3GNTL1 mRNA,22574217
+15625,D013749,Tetrachlorodibenzodioxin,B3GNTL1,146712,Rattus norvegicus,10116,Tetrachlorodibenzodioxin results in increased expression of B3GNTL1 mRNA,33387578
+23648,C029753,aflatoxin B2,B3GNTL1,146712,Homo sapiens,9606,aflatoxin B2 results in decreased methylation of B3GNTL1 polyA tail|aflatoxin B2 results in decreased methylation of B3GNTL1 intron,30157460
+24597,C027373,potassium chromate(VI),B3GNTL1,146712,Homo sapiens,9606,[potassium chromate(VI) co-treated with epigallocatechin gallate] results in decreased expression of B3GNTL1 mRNA|potassium chromate(VI) results in decreased expression of B3GNTL1 mRNA,22079256
+24947,D019256,Cadmium Chloride,B3GNTL1,146712,Rattus norvegicus,10116,Cadmium Chloride results in decreased methylation of B3GNTL1 promoter,22457795
+39929,C014211,"2,3,7,8-tetrachlorodibenzofuran",B3GNTL1,146712,Rattus norvegicus,10116,"2,3,7,8-tetrachlorodibenzofuran results in increased expression of B3GNTL1 mRNA",32109520
+41322,D015123,"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide",B3GNTL1,146712,Homo sapiens,9606,"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide results in decreased expression of B3GNTL1 mRNA",26238291
+54900,D020849,Raloxifene Hydrochloride,B3GNTL1,146712,Danio rerio,7955,Raloxifene Hydrochloride results in increased expression of B3GNTL1 mRNA,29458080
+65064,C045651,epigallocatechin gallate,B3GNTL1,146712,Homo sapiens,9606,[potassium chromate(VI) co-treated with epigallocatechin gallate] results in decreased expression of B3GNTL1 mRNA,22079256
+76302,C404910,"2,2-bis(4-hydroxyphenyl)-1,1,1-trichloroethane",B3GNTL1,146712,Mus musculus,10090,"2,2-bis(4-hydroxyphenyl)-1,1,1-trichloroethane results in decreased expression of B3GNTL1 mRNA",25575267
+95170,C511295,"2,2',4,4'-tetrabromodiphenyl ether",B3GNTL1,146712,Mus musculus,10090,"2,2',4,4'-tetrabromodiphenyl ether affects the expression of B3GNTL1 mRNA",30294300
+104741,D000077267,Fulvestrant,B3GNTL1,146712,Homo sapiens,9606,[bisphenol A co-treated with Fulvestrant] results in increased methylation of B3GNTL1 gene|[bis(4-hydroxyphenyl)sulfone co-treated with Fulvestrant] results in decreased methylation of B3GNTL1 gene,31601247
+186907,D016604,Aflatoxin B1,B3GNTL1,146712,Homo sapiens,9606,Aflatoxin B1 results in decreased expression of B3GNTL1 mRNA,22100608
+186907,D016604,Aflatoxin B1,B3GNTL1,146712,Homo sapiens,9606,Aflatoxin B1 results in increased methylation of B3GNTL1 intron,30157460
+441203,D002945,Cisplatin,B3GNTL1,146712,Homo sapiens,9606,Cisplatin results in increased expression of B3GNTL1 mRNA|[Cisplatin co-treated with jinfukang] results in increased expression of B3GNTL1 mRNA,27392435
+448537,D004054,Diethylstilbestrol,B3GNTL1,146712,Mus musculus,10090,Diethylstilbestrol results in decreased expression of B3GNTL1 mRNA,25575267
+2723949,D013853,Thioacetamide,B3GNTL1,146712,Cavia porcellus,10141,Thioacetamide results in decreased expression of B3GNTL1 mRNA,34492290
+5040063,C486184,"4,4',4''-(4-propyl-((1)H)-pyrazole-1,3,5-triyl) tris-phenol",B3GNTL1,146712,Mus musculus,10090,"4,4',4''-(4-propyl-((1)H)-pyrazole-1,3,5-triyl) tris-phenol results in decreased expression of B3GNTL1 mRNA",25575267
+5280343,D011794,Quercetin,B3GNTL1,146712,Homo sapiens,9606,Quercetin results in decreased expression of B3GNTL1 mRNA,21632981
+5280961,D019833,Genistein,B3GNTL1,146712,Danio rerio,7955,Genistein results in increased expression of B3GNTL1 mRNA,29458080
+5359268,D000535,Aluminum,B3GNTL1,146712,NULL,NULL,[APP protein modified form binds to Aluminum] which results in decreased expression of B3GNTL1 mRNA,21298039
+5359596,D001151,Arsenic,B3GNTL1,146712,Homo sapiens,9606,Arsenic affects the methylation of B3GNTL1 gene,25304211
+5462310,D037742,"Nanotubes, Carbon",B3GNTL1,146712,Mus musculus,10090,"Nanotubes, Carbon results in decreased expression of B3GNTL1 mRNA|Nanotubes, Carbon analog results in increased expression of B3GNTL1 mRNA",25620056
+11238147,C492448,ICG 001,B3GNTL1,146712,Homo sapiens,9606,ICG 001 results in decreased expression of B3GNTL1 mRNA,26191083
+46907787,C561695,(+)-JQ1 compound,B3GNTL1,146712,Homo sapiens,9606,(+)-JQ1 compound results in increased expression of B3GNTL1 mRNA,23430699
+135398658,D005492,Folic Acid,B3GNTL1,146712,Mus musculus,10090,Folic Acid results in decreased expression of B3GNTL1 mRNA,25629700
